@@ -11,7 +11,7 @@
 
 ## 🌐 Reach me:
 
-[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1UjUYOTA5wmKJloVf7ubs7xXtdhZSDltF/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1L8ALkU0KmFHfcisfXB5VFmM-wMUBGx0j?usp=sharing)
 
 
 
