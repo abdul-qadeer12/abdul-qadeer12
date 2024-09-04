@@ -1,5 +1,5 @@
-<h1 align="center">Hello Devs 👀, I am Abdul Qadeer</h1>
-<h3 align="center">a passionate App Developer, who likes to develop thinking into code</h3>
+<h1 align="center">Hello Devs, I'm Abdul Qadeer</h1> 
+<h3 align="center">A dedicated developer who transforms ideas into code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-qadeer12&theme=onestar" alt="abdul-qadeer12" /></a> </p>
 
