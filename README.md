@@ -6,14 +6,15 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abdul-qadeer-1r521r/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50%; width: 100px; height: 100px;">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100078016295396" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 50%; width: 100px; height: 100px;">
 </a>
 <a href="https://www.instagram.com/aq_00019/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 50%; width: 100px; height: 100px;">
 </a>
+
 
 
 ## 🌐 Reach me:
