@@ -13,9 +13,14 @@
 
 [![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1L8ALkU0KmFHfcisfXB5VFmM-wMUBGx0j?usp=sharing)
 
-
 <h3 align="left">Languages and Tools:</h3>
 
+![Java](https://img.shields.io/badge/java-%23F7DF1C.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,12 +42,7 @@
 ![PyPapyrus](https://img.shields.io/badge/PyPapyrus-%23121011.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-%23121011.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-%23121011.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23F7DF1C.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
+
 
 
 <div> <a href="https://github.com/abdul-qadeer12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
