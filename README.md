@@ -16,33 +16,49 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%2304989C.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![PyPapyrus](https://img.shields.io/badge/PyPapyrus-%23121011.svg?style=for-the-badge)
-![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-%23121011.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-%23121011.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23F7DF1C.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white)
+<div class="badge-container">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" class="circle-badge" alt="C">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" class="circle-badge" alt="C++">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" class="circle-badge" alt="Python">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white" class="circle-badge" alt="LaTeX">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" class="circle-badge" alt="Shell Script">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" class="circle-badge" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" class="circle-badge" alt="Anaconda">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" class="circle-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" class="circle-badge" alt="SQLite">
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white" class="circle-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/cisco-%2304989C.svg?style=flat&logo=cisco&logoColor=white" class="circle-badge" alt="Cisco">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" class="circle-badge" alt="Firebase">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" class="circle-badge" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" class="circle-badge" alt="Postman">
+  <img src="https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=white" class="circle-badge" alt="GraphQL">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" class="circle-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" class="circle-badge" alt="VS Code">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" class="circle-badge" alt="Android Studio">
+  <img src="https://img.shields.io/badge/PyPapyrus-%23121011.svg?style=flat" class="circle-badge" alt="PyPapyrus">
+  <img src="https://img.shields.io/badge/linux-%23121011.svg?style=flat&logo=linux&logoColor=white" class="circle-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/VMware-%23121011.svg?style=flat&logo=vmware&logoColor=white" class="circle-badge" alt="VMware">
+  <img src="https://img.shields.io/badge/VirtualBox-%23121011.svg?style=flat&logo=virtualbox&logoColor=white" class="circle-badge" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" class="circle-badge" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white" class="circle-badge" alt="MySQL Workbench">
+  <img src="https://img.shields.io/badge/java-%23F7DF1C.svg?style=flat&logo=java&logoColor=white" class="circle-badge" alt="Java">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" class="circle-badge" alt="React">
+  <img src="https://img.shields.io/badge/React%20Native-%2320232A.svg?style=flat&logo=react&logoColor=white" class="circle-badge" alt="React Native">
+</div>
+
+.badge-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Adjust the spacing between badges */
+}
+
+.circle-badge {
+  width: 80px; /* Adjust the size of the badges */
+  height: 80px; /* Adjust the size of the badges */
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 
 
 <div> <a href="https://github.com/abdul-qadeer12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
